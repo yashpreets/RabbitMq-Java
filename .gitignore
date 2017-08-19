@@ -1,0 +1,5 @@
+RabbitMq/.classpath
+RabbitMq/.project
+RabbitMq/.settings/*
+RabbitMq/target/*
+RabbitMq/lib/*
